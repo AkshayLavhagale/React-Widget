@@ -21,7 +21,7 @@ const items = [
   },
   {
     title: "Who developed React?",
-    content: "Facebook developers built React language!",
+    content: "Facebook team built React language!",
   },
 ];
 
