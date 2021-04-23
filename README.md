@@ -5,8 +5,6 @@ My widget react app have four different components:
 3. Dropdown
 4. Translate
 
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
