@@ -1,4 +1,4 @@
-## React Widget App
+# React Widget App
 My widget react app have four different components:
 1. Accordion
 2. Search
